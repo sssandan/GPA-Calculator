@@ -2,4 +2,4 @@
 
 Using BlueJ, I created a GPA Calculator that looks like this:
 
-![testOutput](Users/main/Downloads/screenshotOfGPACalc.png)
+![testOutput](file:///Users/main/Downloads/screenshotOfGPACalc.png)
